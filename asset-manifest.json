@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/amandubey/static/css/main.2671bbe2.css",
+    "main.js": "/amandubey/static/js/main.46177db2.js",
+    "static/media/bgvid1.mp4": "/amandubey/static/media/bgvid1.2b4c8c42a4152a205b3e.mp4",
+    "static/media/bg3.jpg": "/amandubey/static/media/bg3.c9df14eaa14fdcbba160.jpg",
+    "static/media/p1.png": "/amandubey/static/media/p1.a915c2965152bed5b3c0.png",
+    "static/media/faerlyf.png": "/amandubey/static/media/faerlyf.07c0a580d6e96649797d.png",
+    "static/media/s1.jpg": "/amandubey/static/media/s1.fe30fcc37d1d7131a7eb.jpg",
+    "static/media/s2.jpg": "/amandubey/static/media/s2.bb00e770fcbc8e6f9711.jpg",
+    "static/media/s3.jpg": "/amandubey/static/media/s3.3d0c075f8250f22d99c0.jpg",
+    "static/media/logo.png": "/amandubey/static/media/logo.6d1fc3204c9109c05fa9.png",
+    "static/media/portold.png": "/amandubey/static/media/portold.d6e5725d6218cbe0a1a6.png",
+    "static/media/html.svg": "/amandubey/static/media/html.ed876985e01e007a31e181064963237d.svg",
+    "static/media/image3.jpg": "/amandubey/static/media/image3.e54c5fcafceba86010c7.jpg",
+    "static/media/portfolio.png": "/amandubey/static/media/portfolio.c7db9a53e5de4be5243d.png",
+    "static/media/gsap.svg": "/amandubey/static/media/gsap.dff87e2debbe5d37479732018b2a575a.svg",
+    "static/media/image2.jpg": "/amandubey/static/media/image2.5ad1813ebe3e984d7978.jpg",
+    "static/media/react.svg": "/amandubey/static/media/react.c136879eb4faa8c60d6df8d2558c61b5.svg",
+    "static/media/image.jpg": "/amandubey/static/media/image.55d02a4d365af51ee21f.jpg",
+    "static/media/sass.svg": "/amandubey/static/media/sass.8aa78a8393470431c8036541f0708bd7.svg",
+    "index.html": "/amandubey/index.html",
+    "static/media/arrow-right.svg": "/amandubey/static/media/arrow-right.94dbe206072aaccbf6e5fbae41484ac3.svg",
+    "static/media/arrow-left.svg": "/amandubey/static/media/arrow-left.389e5dec1aa67efd88e930cd98a22e24.svg",
+    "static/media/js.svg": "/amandubey/static/media/js.b879f838faf1cb951d1c2230fd933a39.svg",
+    "main.2671bbe2.css.map": "/amandubey/static/css/main.2671bbe2.css.map",
+    "main.46177db2.js.map": "/amandubey/static/js/main.46177db2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2671bbe2.css",
+    "static/js/main.46177db2.js"
+  ]
+}
